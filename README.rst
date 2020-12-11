@@ -57,13 +57,11 @@ Requirements
 =============
 
 - Django (1.11, 2.1) for Django ORM support;
-- Faker >= 0.7.3
+- Faker == 5.0.1
 - Flask-SQLALchemy for SQLAlchemy ORM support and integration as Flask application;
 - Mongoengine for Mongoengine ODM support;
 - SQLAlchemy for SQLAlchemy ORM support;
 - Peewee ORM support;
-- fake-factory >= 0.5.0
-- faker == 0.7.3
 - python 2.7 or 3.6+
 
 
@@ -388,6 +386,7 @@ Contributors
 * Skylar Saveland     (https://github.com/skyl)
 * Suriya Subramanian  (https://github.com/suriya)
 * Gram                (https://github.com/orsinium)
+* Göran Törnquist     (https://github.com/gtqgtq)
 
 License
 =======
